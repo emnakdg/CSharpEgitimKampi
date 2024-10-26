@@ -28,4 +28,7 @@ Bu projede, geriye değer döndüren metotlar ile çalıştım. Kullanıcıdan a
 ## ✔ Proje 9: SQL Veri Tabanı ve Tablo Oluşturma & C# Kısmına Bağlama
 Bu Projede SQL veritabanı kullanarak veri saklamayı ve yönetmeyi öğrendim. Öncelikle veritabanı ve tabloları oluşturdum, ardından C# ile bağlantı kurmayı öğrendim.
 
+## ✔ Proje 10: C# ile SQL Listeleme Ekleme Güncelleme ve Silme İşlemleri
+Bu Projede SQL veritabanına C# kullanarak yeni veri ekleme, veri silme, veri güncelleme ve veri listeleme işlemlerini öğrendim.
+
 Bu eğitimler, C# programlama diline dair temel kavramları kavramama ve bu bilgileri pratikte nasıl kullanacağımı görmeme yardımcı oldu.
